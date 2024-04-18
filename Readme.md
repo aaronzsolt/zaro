@@ -1,4 +1,4 @@
-
+# Záródolgozat
 # Verziókezelés
 ## Helyi repo létrehozása
     
